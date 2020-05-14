@@ -2,8 +2,7 @@
 NodeJS, ReactJS, React Native e TypeScript
 
 # **Primeiro Projeto**
-
-# Extenssões e configurações
+## Extenssões e configurações
 * Configurando estrutura
 * EditorConfig
 * ESLint
@@ -11,12 +10,11 @@ NodeJS, ReactJS, React Native e TypeScript
 * Prettier
 * Debugando NodeJS
 
-# Aprendendo Design Patterns
+## Aprendendo Design Patterns
 * SOLID
 * Data Mapper Pattern
 * Repositórios
 * Services
-
 # **Back End GoBarber**
 * Banco de dados
 * Autenticação
