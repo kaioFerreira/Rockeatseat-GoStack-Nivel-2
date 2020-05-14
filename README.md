@@ -1,6 +1,8 @@
 # Rockeatseat GoStack Nivel 2
 NodeJS, ReactJS, React Native e TypeScript
 
+# **Primeiro Projeto**
+
 # Extenssões e configurações
 * Configurando estrutura
 * EditorConfig
@@ -14,3 +16,9 @@ NodeJS, ReactJS, React Native e TypeScript
 * Data Mapper Pattern
 * Repositórios
 * Services
+
+# **Back End GoBarber**
+* Banco de dados
+* Autenticação
+* Upload de imagens
+* Tratando exceções
